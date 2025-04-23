@@ -1,5 +1,5 @@
 web:
-+ https://dashboard-project-lemon.vercel.app/login
++ https://dashboard-project-lemon.vercel.app/
 
 - - -
 
